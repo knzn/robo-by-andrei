@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/robo-by-andrei/static/css/main.7fabdb33.chunk.css",
+    "main.js": "/robo-by-andrei/static/js/main.2d67298e.chunk.js",
+    "main.js.map": "/robo-by-andrei/static/js/main.2d67298e.chunk.js.map",
+    "runtime-main.js": "/robo-by-andrei/static/js/runtime-main.f3db59cb.js",
+    "runtime-main.js.map": "/robo-by-andrei/static/js/runtime-main.f3db59cb.js.map",
+    "static/js/2.f833121f.chunk.js": "/robo-by-andrei/static/js/2.f833121f.chunk.js",
+    "static/js/2.f833121f.chunk.js.map": "/robo-by-andrei/static/js/2.f833121f.chunk.js.map",
+    "index.html": "/robo-by-andrei/index.html",
+    "precache-manifest.3625d6d814d73aed0457108c19108de7.js": "/robo-by-andrei/precache-manifest.3625d6d814d73aed0457108c19108de7.js",
+    "service-worker.js": "/robo-by-andrei/service-worker.js",
+    "static/css/main.7fabdb33.chunk.css.map": "/robo-by-andrei/static/css/main.7fabdb33.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3db59cb.js",
+    "static/js/2.f833121f.chunk.js",
+    "static/css/main.7fabdb33.chunk.css",
+    "static/js/main.2d67298e.chunk.js"
+  ]
+}
